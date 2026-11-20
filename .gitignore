@@ -1,0 +1,13 @@
+# Illustrator / OS leftovers — the script itself is a single .jsx file
+*.ai.lock
+*.tmp
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor backups
+*.bak
+*~
+*.swp
